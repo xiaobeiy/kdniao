@@ -23,9 +23,9 @@ import urllib
 # self.kdniaoUrl = "http://testapi.kdniao.com:8081/api/Eorderservice"
 kdniaoUrl = "http://sandboxapi.kdniao.com:8080/kdniaosandbox/gateway/exterfaceInvoke.json"
 # kdniaoEbusinessId
-eBusinessID = "test1598586"
+eBusinessID = ""
 # 快递鸟app_key
-app_key = "6144940e-5b52-4abd-a2a6-b28876d3c79c"
+app_key = ""
 
 
 def getCurTime():
